@@ -1,5 +1,4 @@
-# 💫 About Me:
-Hello! I'm Fyaz Mohammed 👋<br><br>🎓 A passionate student exploring the world of coding, especially Python. I enjoy learning about new technologies and collaborating on innovative projects.<br><br>🌱 Currently, I'm deepening my knowledge of Python and developing small projects to sharpen my skills.<br><br>💡 Let's connect, share ideas, and collaborate on exciting projects! Feel free to check out my repositories! 🚀
+Hello! I'm Ayush Gautam 👋<br><br>🎓 A curious and motivated B.Tech student passionate about tech, coding, and problem-solving. I love diving into C++, Java, and Python to build useful and creative projects.<br><br>🌱 Currently, I'm sharpening my skills in Data Structures & Algorithms, OOPs, and web development while working on real-world projects and exploring new technologies.<br><br>💡 Let's connect, share knowledge, and collaborate on exciting opportunities! Check out my repositories to see what I'm working on! 🔥
 
 ## 🌐 Connect with Me:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/ayush24kr)
