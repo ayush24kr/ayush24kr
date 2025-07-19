@@ -1,7 +1,7 @@
 Hello! I'm Ayush Gautam 👋<br><br>🎓 A curious and motivated B.Tech student passionate about tech, coding, and problem-solving. I love diving into C++, Java, and Python to build useful and creative projects.<br><br>🌱 Currently, I'm sharpening my skills in Data Structures & Algorithms, OOPs, and web development while working on real-world projects and exploring new technologies.<br><br>💡 Let's connect, share knowledge, and collaborate on exciting opportunities! Check out my repositories to see what I'm working on! 🔥
 
 ## 🌐 Connect with Me:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/ayush24kr)<div align="left"> [![Telegram](https://img.shields.io/badge/Telegram-%230077B5.svg?logo=linkedin&logoColor=white)](https://t.me/ayush24kr)<div align="left">
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/ayush24kr)<div align="left"> [![Telegram](https://img.shields.io/badge/Telegram-%230077B5.svg?logo=linkedin&logoColor=white)](https://t.me/ayush24kr)
 
 
 # 💻 Tech Stack:
